@@ -4,5 +4,5 @@ Install the dependencies listed in requirements.txt. We recommend starting by in
 ### Running the code
 To obtain our experiment's results, simply run the cells of `resnet_AM.ipynb` in order. Details on what each function does are commented.
 ### Contribution
-Derek Dong: Design and code for experimental metbhods
+Derek Dong: Design and code for experimental metbhods  
 Neil He: Design and code for activation maximization and regularization
