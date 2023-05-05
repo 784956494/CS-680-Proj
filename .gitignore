@@ -15,7 +15,6 @@ patchShow.py
 cifar-10-python.tar.gz
 _pycache_
 test_AM.ipynb
-requirements.txt
 LOC_synset_mapping.json
 working_version.ipynb
 Cat-Dog-CNN-Classifier-master/DogVsCat Classifier.ipynb
